@@ -127,12 +127,6 @@ Since this project uses multiple files, you must create a **Project** so the com
 * 🎲 Random symbol generation
 * ⚡ Fast-paced reflex gameplay
 * 📊 Score tracking system
-* ❤️ Life/health system
 * 🕹 Real-time keyboard interaction
 
----
-
-If you want, I can also make a ✨ GitHub-ready polished version with badges, emojis aligned properly, and a cool tagline like:
-
-> *“Where reflex meets chaos beneath the cosmic reef.”* 🌊⚡
 
